@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="user_text">Write text…</string>
+    <string name="send_text_button">Send</string>
+</resources>
