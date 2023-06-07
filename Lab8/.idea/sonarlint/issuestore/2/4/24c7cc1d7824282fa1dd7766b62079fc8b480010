@@ -1,0 +1,21 @@
+
+M
+java:S1874"0Remove this use of "Fragment"; it is deprecated.(­Ò¡8´–èÄˆ1
+f
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(›ŞÇD8·–èÄˆ1
+R
+java:S1874"0Remove this use of "onCreate"; it is deprecated.(î±¨Ôøÿÿÿÿ8¹–èÄˆ1
+g
+java:S1874)"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ï ±ª8º–èÄˆ1
+g
+java:S18746"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ßû¢½8»–èÄˆ1
+Q
+java:S18747"/Remove this use of "onPause"; it is deprecated.(´¬á®ÿÿÿÿÿ8»–èÄˆ1
+g
+java:S1874="JDon't override a deprecated method or explicitly mark it as "@Deprecated".(öÿÕÅ8¼–èÄˆ1
+R
+java:S1874>"0Remove this use of "onResume"; it is deprecated.(çóà±úÿÿÿÿ8¼–èÄˆ1
+l
+java:S1874E"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(£ªˆ˜ûÿÿÿÿ8¼–èÄˆ1
+L
+java:S1874_"/Remove this use of "Handler"; it is deprecated.(’Ú©Š8àÊÍÄˆ1

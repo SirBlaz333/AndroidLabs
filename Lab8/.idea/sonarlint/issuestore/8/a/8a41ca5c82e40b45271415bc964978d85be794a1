@@ -1,0 +1,15 @@
+
+Q
+java:S1874"4Remove this use of "ListFragment"; it is deprecated.(˜á§8Š‹şÂˆ1
+g
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŒÜ‹8‹şÂˆ1
+X
+java:S1874 "6Remove this use of "setListAdapter"; it is deprecated.(£ö˜ªøÿÿÿÿ8‘‹şÂˆ1
+Q
+java:S1874!"4Remove this use of "onCreateView"; it is deprecated.(Ï«ş•8‘‹şÂˆ1
+f
+java:S1874%"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¶±„8’‹şÂˆ1
+R
+java:S1874&"0Remove this use of "onAttach"; it is deprecated.(„ÿªûúÿÿÿÿ8“‹şÂˆ1
+l
+java:S1874+"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‡ºûçıÿÿÿÿ8ÈñşÂˆ1

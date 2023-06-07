@@ -1,0 +1,37 @@
+
+X
+java:S1874";Remove this use of "FragmentTransaction"; it is deprecated.(°ş™é8–ïÃˆ1
+W
+java:S1874":Remove this use of "getFragmentManager"; it is deprecated.(°ş™é8—ïÃˆ1
+U
+java:S1874"8Remove this use of "beginTransaction"; it is deprecated.(°ş™é8—ïÃˆ1
+L
+java:S1874"/Remove this use of "replace"; it is deprecated.(ş«òÙ8—ïÃˆ1
+X
+java:S1874"6Remove this use of "addToBackStack"; it is deprecated.(ŸĞŞÃÿÿÿÿÿ8—ïÃˆ1
+W
+java:S1874"5Remove this use of "setTransition"; it is deprecated.(ïÈéıÿÿÿÿ8—ïÃˆ1
+]
+java:S1874";Remove this use of "FragmentTransaction"; it is deprecated.(ïÈéıÿÿÿÿ8—ïÃˆ1
+_
+java:S1874"=Remove this use of "TRANSIT_FRAGMENT_FADE"; it is deprecated.(ïÈéıÿÿÿÿ8—ïÃˆ1
+K
+java:S1874".Remove this use of "commit"; it is deprecated.(ˆ¿ë–8˜ïÃˆ1
+X
+java:S1874";Remove this use of "FragmentTransaction"; it is deprecated.(ˆïğÑ8Æ¨äÄˆ1
+W
+java:S1874":Remove this use of "getFragmentManager"; it is deprecated.(ˆïğÑ8Ç¨äÄˆ1
+U
+java:S1874"8Remove this use of "beginTransaction"; it is deprecated.(ˆïğÑ8Ç¨äÄˆ1
+Q
+java:S1874"/Remove this use of "replace"; it is deprecated.(çÚ‰‚şÿÿÿÿ8Ç¨äÄˆ1
+X
+java:S1874"6Remove this use of "addToBackStack"; it is deprecated.(õ®­´şÿÿÿÿ8Ç¨äÄˆ1
+R
+java:S1874"5Remove this use of "setTransition"; it is deprecated.(Å‰¹Œ8È¨äÄˆ1
+X
+java:S1874";Remove this use of "FragmentTransaction"; it is deprecated.(Å‰¹Œ8È¨äÄˆ1
+Z
+java:S1874"=Remove this use of "TRANSIT_FRAGMENT_FADE"; it is deprecated.(Å‰¹Œ8È¨äÄˆ1
+P
+java:S1874".Remove this use of "commit"; it is deprecated.(¾‘ò¼ûÿÿÿÿ8È¨äÄˆ1
