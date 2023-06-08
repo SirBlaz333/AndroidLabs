@@ -1,0 +1,31 @@
+
+U
+java:S1874	"3Remove this use of "TabActivity"; it is deprecated.(¢åîÙùÿÿÿÿ8éÊóã‰1
+l
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¨Œşÿÿÿÿ8­‚ôã‰1
+R
+java:S1874"0Remove this use of "onCreate"; it is deprecated.(î±¨Ôøÿÿÿÿ8¯‚ôã‰1
+Q
+java:S1874"/Remove this use of "TabHost"; it is deprecated.(ŒìÊ×ûÿÿÿÿ8°‚ôã‰1
+T
+java:S1874"2Remove this use of "getTabHost"; it is deprecated.(ŒìÊ×ûÿÿÿÿ8²‚ôã‰1
+L
+java:S1874"/Remove this use of "TabHost"; it is deprecated.(İ›Ñ¥8²‚ôã‰1
+L
+java:S1874"/Remove this use of "TabSpec"; it is deprecated.(İ›Ñ¥8²‚ôã‰1
+O
+java:S1874"2Remove this use of "newTabSpec"; it is deprecated.(¹¿ƒŒ8³‚ôã‰1
+Q
+java:S1874"4Remove this use of "setIndicator"; it is deprecated.(´ùú’8³‚ôã‰1
+T
+java:S1874"2Remove this use of "setContent"; it is deprecated.(¸Æäúÿÿÿÿ8´‚ôã‰1
+K
+java:S1874".Remove this use of "addTab"; it is deprecated.(Á³Óñ8¸‚ôã‰1
+T
+java:S1874"2Remove this use of "newTabSpec"; it is deprecated.(ÇÛì“şÿÿÿÿ8¸‚ôã‰1
+V
+java:S1874"4Remove this use of "setIndicator"; it is deprecated.(Ÿµ¤Áûÿÿÿÿ8¹‚ôã‰1
+O
+java:S1874"2Remove this use of "setContent"; it is deprecated.(íèÅÂ8¹‚ôã‰1
+K
+java:S1874".Remove this use of "addTab"; it is deprecated.(Á³Óñ8º‚ôã‰1

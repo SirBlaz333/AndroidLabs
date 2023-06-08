@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="info">\n</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="canсel">Canсel</string>
+    <string name="save_data">Save Data?</string>
+    <string name="exit">Exit</string>
+    <string name="saved">saved</string>
+</resources>
